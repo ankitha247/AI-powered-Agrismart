@@ -1,0 +1,73 @@
+{
+  "auth": {
+    "welcome": "अग्रिस्मार्ट में आपका स्वागत है",
+    "signup_success": "खाता सफलतापूर्वक बनाया गया",
+    "login_success": "लॉगिन सफल",
+    "invalid_credentials": "अमान्य ईमेल या पासवर्ड",
+    "email_exists": "ईमेल पहले से पंजीकृत है"
+  },
+  "crops": {
+    "recommendations": "फसल सिफारिशें",
+    "suitable_crops": "उपयुक्त फसलें मिलीं",
+    "match_score": "मेल स्कोर",
+    "reasons": "यह फसल क्यों उपयुक्त है",
+    "soil_suitable": "मिट्टी के प्रकार के लिए उपयुक्त",
+    "season_ideal": "वर्तमान मौसम के लिए आदर्श",
+    "region_good": "आपके क्षेत्र के लिए अच्छा"
+  },
+  "yield": {
+    "prediction": "उपज पूर्वानुमान",
+    "estimated_yield": "अनुमानित उपज",
+    "confidence": "विश्वास",
+    "tons_per_hectare": "टन/हेक्टेयर",
+    "recommendations": "सुधार के सुझाव",
+    "add_organic": "पानी की धारण क्षमता बढ़ाने के लिए कार्बनिक पदार्थ मिलाएं",
+    "supplemental_irrigation": "सूखे के दौरान अतिरिक्त सिंचाई पर विचार करें",
+    "soil_testing": "मिट्टी के पोषक तत्वों की जांच करें और संतुलित उर्वरक लगाएं",
+    "standard_practices": "सर्वोत्तम परिणामों के लिए मानक कृषि पद्धतियों का पालन करें"
+  },
+  "dashboard": {
+    "welcome": "वापसी पर स्वागत है",
+    "yield_forecast": "उपज पूर्वानुमान",
+    "crop_recommend": "फसल सिफारिश",
+    "disease_detect": "रोग पहचान",
+    "recent_activity": "हाल की गतिविधि"
+  },
+  "forms": {
+    "crop_name": "फसल का नाम",
+    "soil_type": "मिट्टी का प्रकार",
+    "season": "मौसम",
+    "irrigation": "सिंचाई स्रोत",
+    "state": "राज्य",
+    "district": "जिला",
+    "predict": "उपज का अनुमान लगाएं",
+    "get_recommendations": "सिफारिशें प्राप्त करें",
+    "upload_image": "फसल की छवि अपलोड करें"
+  },
+  "soil_types": {
+    "clay": "चिकनी मिट्टी",
+    "sandy": "बलुई मिट्टी",
+    "loamy": "दोमट मिट्टी"
+  },
+  "seasons": {
+    "spring": "वसंत",
+    "summer": "गर्मी",
+    "monsoon": "मानसून", 
+    "winter": "सर्दी"
+  },
+  "irrigation": {
+    "rainfed": "वर्षा आधारित",
+    "well": "कुआं",
+    "canal": "नहर",
+    "drip": "ड्रिप सिंचाई"
+  },
+  "common": {
+    "success": "सफलता",
+    "error": "त्रुटि",
+    "loading": "लोड हो रहा है...",
+    "save": "सहेजें",
+    "cancel": "रद्द करें",
+    "next": "अगला",
+    "previous": "पिछला"
+  }
+}

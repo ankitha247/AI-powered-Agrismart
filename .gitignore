@@ -1,0 +1,29 @@
+# Node
+node_modules/
+**/node_modules/
+
+# Python
+__pycache__/
+*.pyc
+
+# uploads / runtime files
+uploads/
+*.jpg
+*.png
+*.jpeg
+
+# environments
+venv/
+env/
+agrismart/
+
+# build
+dist/
+build/
+
+# misc
+.DS_Store
+
+.env
+**/.env
+

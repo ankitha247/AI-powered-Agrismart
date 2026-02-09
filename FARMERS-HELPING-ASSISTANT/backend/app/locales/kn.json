@@ -1,0 +1,73 @@
+{
+  "auth": {
+    "welcome": "ಅಗ್ರಿಸ್ಮಾರ್ಟ್ಗೆ ಸ್ವಾಗತ",
+    "signup_success": "ಖಾತೆಯನ್ನು ಯಶಸ್ವಿಯಾಗಿ ರಚಿಸಲಾಗಿದೆ",
+    "login_success": "ಲಾಗಿನ್ ಯಶಸ್ವಿ",
+    "invalid_credentials": "ಅಮಾನ್ಯ ಇಮೇಲ್ ಅಥವಾ ಪಾಸ್ವರ್ಡ್",
+    "email_exists": "ಇಮೇಲ್ ಈಗಾಗಲೇ ನೋಂದಾಯಿಸಲಾಗಿದೆ"
+  },
+  "crops": {
+    "recommendations": "ಬೆಳೆ ಶಿಫಾರಸುಗಳು",
+    "suitable_crops": "ಸೂಕ್ತ ಬೆಳೆಗಳು ಕಂಡುಬಂದಿವೆ",
+    "match_score": "ಹೊಂದಾಣಿಕೆ ಸ್ಕೋರ್",
+    "reasons": "ಈ ಬೆಳೆ ಏಕೆ ಸೂಕ್ತವಾಗಿದೆ",
+    "soil_suitable": "ಮಣ್ಣಿನ ಪ್ರಕಾರಕ್ಕೆ ಚೆನ್ನಾಗಿ ಹೊಂದಿಕೆಯಾಗುತ್ತದೆ",
+    "season_ideal": "ಪ್ರಸ್ತುತ ಋತುವಿಗೆ ಆದರ್ಶ",
+    "region_good": "ನಿಮ್ಮ ಪ್ರದೇಶಕ್ಕೆ ಒಳ್ಳೆಯದು"
+  },
+  "yield": {
+    "prediction": "ಉತ್ಪಾದನೆ ಮುನ್ಸೂಚನೆ",
+    "estimated_yield": "ಅಂದಾಜು ಉತ್ಪಾದನೆ",
+    "confidence": "ನಂಬಿಕೆ",
+    "tons_per_hectare": "ಟನ್/ಹೆಕ್ಟೇರ್",
+    "recommendations": "ಸುಧಾರಣೆ ಸಲಹೆಗಳು",
+    "add_organic": "ನೀರಿನ ಧಾರಣಶಕ್ತಿ ಸುಧಾರಿಸಲು ಸಾವಯವ ಪದಾರ್ಥಗಳನ್ನು ಸೇರಿಸಿ",
+    "supplemental_irrigation": "ಬರಗಾಲದ期间 ಹೆಚ್ಚುವರಿ ನೀರಾವರಿ ಪರಿಗಣಿಸಿ",
+    "soil_testing": "ಮಣ್ಣಿನ ಪೋಷಕಾಂಶಗಳನ್ನು ಪರೀಕ್ಷಿಸಿ ಮತ್ತು ಸಮತೋಲಿತ ರಸಗೊಬ್ಬರ ಅನ್ವಯಿಸಿ",
+    "standard_practices": "ಉತ್ತಮ ಫಲಿತಾಂಶಗಳಿಗೆ ಪ್ರಮಾಣಿತ ಕೃಷಿ ಪದ್ಧತಿಗಳನ್ನು ಅನುಸರಿಸಿ"
+  },
+  "dashboard": {
+    "welcome": "ಮರಳಿ ಸ್ವಾಗತ",
+    "yield_forecast": "ಉತ್ಪಾದನೆ ಮುನ್ಸೂಚನೆ",
+    "crop_recommend": "ಬೆಳೆ ಶಿಫಾರಸು",
+    "disease_detect": "ರೋಗ ಗುರುತಿಸುವಿಕೆ",
+    "recent_activity": "ಇತ್ತೀಚಿನ ಚಟುವಟಿಕೆ"
+  },
+  "forms": {
+    "crop_name": "ಬೆಳೆಯ ಹೆಸರು",
+    "soil_type": "ಮಣ್ಣಿನ ಪ್ರಕಾರ",
+    "season": "ಋತು",
+    "irrigation": "ನೀರಾವರಿ ಮೂಲ",
+    "state": "ರಾಜ್ಯ",
+    "district": "ಜಿಲ್ಲೆ",
+    "predict": "ಉತ್ಪಾದನೆ ಮುನ್ಸೂಚಿಸಿ",
+    "get_recommendations": "ಶಿಫಾರಸುಗಳನ್ನು ಪಡೆಯಿರಿ",
+    "upload_image": "ಬೆಳೆ ಚಿತ್ರ ಅಪ್ಲೋಡ್ ಮಾಡಿ"
+  },
+  "soil_types": {
+    "clay": "ಜೇಡಿ ಮಣ್ಣು",
+    "sandy": "ಮರಳು ಮಣ್ಣು",
+    "loamy": "ಇಟ್ಟಿಗೆ ಮಣ್ಣು"
+  },
+  "seasons": {
+    "spring": "ವಸಂತ",
+    "summer": "ಬೇಸಿಗೆ",
+    "monsoon": "ಮಾನ್ಸೂನ್",
+    "winter": "ಚಳಿಗಾಲ"
+  },
+  "irrigation": {
+    "rainfed": "ಮಳೆ ಆಧಾರಿತ",
+    "well": "ಕೊಳವೆ ಬಾವಿ",
+    "canal": "ಕಾಲುವೆ",
+    "drip": "ಟಿಪ್ಪಣಿ ನೀರಾವರಿ"
+  },
+  "common": {
+    "success": "ಯಶಸ್ಸು",
+    "error": "ದೋಷ",
+    "loading": "ಲೋಡ್ ಆಗುತ್ತಿದೆ...",
+    "save": "ಉಳಿಸಿ",
+    "cancel": "ರದ್ದುಮಾಡಿ",
+    "next": "ಮುಂದಿನ",
+    "previous": "ಹಿಂದಿನ"
+  }
+}

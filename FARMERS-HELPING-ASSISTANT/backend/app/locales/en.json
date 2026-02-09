@@ -1,0 +1,73 @@
+{
+  "auth": {
+    "welcome": "Welcome to AgriSmart",
+    "signup_success": "Account created successfully",
+    "login_success": "Login successful",
+    "invalid_credentials": "Invalid email or password",
+    "email_exists": "Email already registered"
+  },
+  "crops": {
+    "recommendations": "Crop Recommendations",
+    "suitable_crops": "suitable crops found",
+    "match_score": "match score",
+    "reasons": "Why this crop is suitable",
+    "soil_suitable": "Well-suited for soil type",
+    "season_ideal": "Ideal for current season",
+    "region_good": "Good for your region"
+  },
+  "yield": {
+    "prediction": "Yield Prediction",
+    "estimated_yield": "Estimated yield",
+    "confidence": "confidence",
+    "tons_per_hectare": "tons/hectare",
+    "recommendations": "Improvement suggestions",
+    "add_organic": "Add organic matter to improve water retention",
+    "supplemental_irrigation": "Consider supplemental irrigation during dry spells",
+    "soil_testing": "Test soil nutrients and apply balanced fertilizer",
+    "standard_practices": "Follow standard agricultural practices for best results"
+  },
+  "dashboard": {
+    "welcome": "Welcome back",
+    "yield_forecast": "Yield Forecast",
+    "crop_recommend": "Crop Recommendation", 
+    "disease_detect": "Disease Detection",
+    "recent_activity": "Recent Activity"
+  },
+  "forms": {
+    "crop_name": "Crop Name",
+    "soil_type": "Soil Type",
+    "season": "Season",
+    "irrigation": "Irrigation Source",
+    "state": "State",
+    "district": "District",
+    "predict": "Predict Yield",
+    "get_recommendations": "Get Recommendations",
+    "upload_image": "Upload Crop Image"
+  },
+  "soil_types": {
+    "clay": "Clay",
+    "sandy": "Sandy", 
+    "loamy": "Loamy"
+  },
+  "seasons": {
+    "spring": "Spring",
+    "summer": "Summer",
+    "monsoon": "Monsoon",
+    "winter": "Winter"
+  },
+  "irrigation": {
+    "rainfed": "Rainfed",
+    "well": "Well",
+    "canal": "Canal",
+    "drip": "Drip Irrigation"
+  },
+  "common": {
+    "success": "Success",
+    "error": "Error",
+    "loading": "Loading...",
+    "save": "Save",
+    "cancel": "Cancel",
+    "next": "Next",
+    "previous": "Previous"
+  }
+}
