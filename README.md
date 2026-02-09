@@ -33,41 +33,63 @@ Simple and intuitive UI designed for easy navigation.
 Tech Stack
 
 Frontend:
+
 React.js
 
 Backend:
+
 FastAPI
+
 Python
 
 Machine Learning:
+
 Scikit-learn (Random Forest)
+
 CLIP (Zero-Shot Model)
 
 Database:
+
 MongoDB
 
 System Architecture
+
 React handles the user interface.
+
 FastAPI manages API requests and communicates with ML models.
+
 ML models process the input data and return predictions.
+
 MongoDB stores user and application data.
 
 Project Objective
+
 The goal of this project is to empower farmers with AI-driven insights so they can:
+
 Choose the right crop
+
 Estimate production
+
 Detect diseases early
+
 Reduce financial losses
+
 Ultimately contributing to smarter and more sustainable agriculture.
 
 Future Enhancements
+
 Real-time weather integration
+
 Advanced analytics dashboard
+
 Mobile application
+
 Satellite data integration for precision farming
 
 Author
+
 Ankita BM
+
 Bachelor’s in Data Science
 
 Passionate about transforming data into meaningful insights that drive better decision-making.
